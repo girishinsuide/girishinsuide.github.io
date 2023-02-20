@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkchennai_airport"]=self["webpackChunkchennai_airport"]||[]).push([[443],{1272:function(n,t,u){u.r(t),u.d(t,{default:function(){return c}});var a=function(){var n=this;n._self._c;return n._m(0)},r=[function(){var n=this,t=n._self._c;return t("div",{staticClass:"about"},[t("h1",[n._v("This is an about page")])])}],e=u(1001),i={},s=(0,e.Z)(i,a,r,!1,null,null,null),c=s.exports}}]);
+//# sourceMappingURL=about.ce4d0a63.js.map
